@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Omega Seamaster Diver 300M",
+    "brand": "Omega",
+    "price": 459999,
+    "material": "Stainless Steel",
+    "style": "Diver",
+    "color": "Blue",
+    "image": "https://images.unsplash.com/photo-1526045431048-e7b82638b86b",
+    "description": "Professional diver’s watch with 300m water resistance and automatic movement."
+  },
+  {
+    "id": 2,
+    "name": "Rolex Submariner Date",
+    "brand": "Rolex",
+    "price": 1089999,
+    "material": "Stainless Steel",
+    "style": "Luxury",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1612817159949-9fdfb006b0b4",
+    "description": "Iconic luxury diver’s watch with a unidirectional bezel and date display."
+  },
+  {
+    "id": 3,
+    "name": "Casio G-Shock Mudmaster",
+    "brand": "Casio",
+    "price": 33999,
+    "material": "Resin",
+    "style": "Sport",
+    "color": "Green",
+    "image": "https://images.unsplash.com/photo-1600181953888-6ee601a3e8a0",
+    "description": "Shock-resistant and mud-resistant watch built for the toughest terrains."
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "price": 45900,
+    "material": "Aluminum",
+    "style": "Smartwatch",
+    "color": "Midnight Black",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1",
+    "description": "Advanced smartwatch with health tracking, GPS, and always-on display."
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "price": 32999,
+    "material": "Aluminum",
+    "style": "Smartwatch",
+    "color": "Graphite",
+    "image": "https://images.unsplash.com/photo-1598300053654-6885a8b6f258",
+    "description": "Feature-packed smartwatch with AMOLED display and fitness tracking."
+  },
+  {
+    "id": 6,
+    "name": "Fossil Gen 6 Hybrid",
+    "brand": "Fossil",
+    "price": 19999,
+    "material": "Stainless Steel",
+    "style": "Hybrid",
+    "color": "Silver",
+    "image": "https://images.unsplash.com/photo-1601924582971-c9c6fdf0b7c2",
+    "description": "Classic analog design meets smart technology with heart rate tracking."
+  },
+  {
+    "id": 7,
+    "name": "Garmin Fenix 7X",
+    "brand": "Garmin",
+    "price": 84990,
+    "material": "Titanium",
+    "style": "Outdoor",
+    "color": "Slate Gray",
+    "image": "https://images.unsplash.com/photo-1604866832835-9d9c5bdee5cd",
+    "description": "Premium multisport GPS watch with solar charging and rugged design."
+  },
+  {
+    "id": 8,
+    "name": "Seiko Presage Automatic",
+    "brand": "Seiko",
+    "price": 58999,
+    "material": "Stainless Steel",
+    "style": "Dress",
+    "color": "White",
+    "image": "https://images.unsplash.com/photo-1612810802481-46d1b5e81d5e",
+    "description": "Elegant automatic watch inspired by Japanese craftsmanship."
+  },
+  {
+    "id": 9,
+    "name": "Tissot Le Locle Powermatic 80",
+    "brand": "Tissot",
+    "price": 54999,
+    "material": "Stainless Steel",
+    "style": "Classic",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1617043983671-adafe4f36ef6",
+    "description": "Automatic watch with 80-hour power reserve and timeless design."
+  },
+  {
+    "id": 10,
+    "name": "Tag Heuer Carrera Calibre 16",
+    "brand": "Tag Heuer",
+    "price": 324999,
+    "material": "Stainless Steel",
+    "style": "Chronograph",
+    "color": "Blue",
+    "image": "https://images.unsplash.com/photo-1620052217335-15e93b6fefb5",
+    "description": "Sporty chronograph with tachymeter scale and automatic movement."
+  },
+  {
+    "id": 11,
+    "name": "Citizen Eco-Drive Promaster",
+    "brand": "Citizen",
+    "price": 41999,
+    "material": "Titanium",
+    "style": "Eco-Drive",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "description": "Solar-powered dive watch with 200m water resistance and rugged look."
+  },
+  {
+    "id": 12,
+    "name": "Hamilton Khaki Field Mechanical",
+    "brand": "Hamilton",
+    "price": 52500,
+    "material": "Stainless Steel",
+    "style": "Field",
+    "color": "Olive Green",
+    "image": "https://images.unsplash.com/photo-1600180758890-6a12e29e6c77",
+    "description": "Military-inspired manual wind watch with canvas strap."
+  },
+  {
+    "id": 13,
+    "name": "Suunto 9 Peak Pro",
+    "brand": "Suunto",
+    "price": 46999,
+    "material": "Titanium",
+    "style": "Adventure",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1600180759150-3b5d3a13d58b",
+    "description": "Durable multisport watch with GPS, barometer, and long battery life."
+  },
+  {
+    "id": 14,
+    "name": "Bulova Lunar Pilot Chronograph",
+    "brand": "Bulova",
+    "price": 57999,
+    "material": "Stainless Steel",
+    "style": "Chronograph",
+    "color": "Silver",
+    "image": "https://images.unsplash.com/photo-1600180759192-7b7f64d8a65e",
+    "description": "High-frequency quartz watch inspired by the Apollo 15 mission."
+  },
+  {
+    "id": 15,
+    "name": "Daniel Wellington Classic Sheffield",
+    "brand": "Daniel Wellington",
+    "price": 15999,
+    "material": "Leather",
+    "style": "Minimalist",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1600181953725-35f5b4eaa5b2",
+    "description": "Slim minimalist watch with black leather strap and rose gold case."
+  },
+  {
+    "id": 16,
+    "name": "Timex Expedition Scout",
+    "brand": "Timex",
+    "price": 6999,
+    "material": "Brass",
+    "style": "Field",
+    "color": "Brown",
+    "image": "https://images.unsplash.com/photo-1600180759365-b43bb8f4b4b1",
+    "description": "Affordable rugged watch with Indiglo backlight and nylon strap."
+  },
+  {
+    "id": 17,
+    "name": "Michael Kors Lexington Chronograph",
+    "brand": "Michael Kors",
+    "price": 21999,
+    "material": "Gold-Tone Stainless Steel",
+    "style": "Fashion",
+    "color": "Gold",
+    "image": "https://images.unsplash.com/photo-1599948309410-5d08c928f7b3",
+    "description": "Stylish chronograph watch with bold gold design and date function."
+  },
+  {
+    "id": 18,
+    "name": "Longines HydroConquest",
+    "brand": "Longines",
+    "price": 112000,
+    "material": "Stainless Steel",
+    "style": "Diver",
+    "color": "Blue",
+    "image": "https://images.unsplash.com/photo-1620052217441-6d94f06c2898",
+    "description": "Elegant dive watch with ceramic bezel and automatic movement."
+  },
+  {
+    "id": 19,
+    "name": "Movado Museum Classic",
+    "brand": "Movado",
+    "price": 84999,
+    "material": "Stainless Steel",
+    "style": "Minimalist",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1612817159856-2c0a06e502e0",
+    "description": "Iconic museum dial watch with single dot design."
+  },
+  {
+    "id": 20,
+    "name": "Rado Captain Cook Automatic",
+    "brand": "Rado",
+    "price": 182000,
+    "material": "Ceramic",
+    "style": "Diver",
+    "color": "Green",
+    "image": "https://images.unsplash.com/photo-1620052217351-4ab47e9d1a45",
+    "description": "Retro-inspired diver’s watch with ceramic bezel and sapphire crystal."
+  }
+]
